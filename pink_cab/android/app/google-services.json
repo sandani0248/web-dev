@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "254744467463",
+    "project_id": "pink-cabs",
+    "storage_bucket": "pink-cabs.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:254744467463:android:76d1065aa8f669891272a2",
+        "android_client_info": {
+          "package_name": "com.pinkcab.riderapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "254744467463-r8guqh3i522holvssltqm9t1pifugkv1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgAoT58-dfTp2LoyAUeCUHYwQA4vtMr8Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "254744467463-r8guqh3i522holvssltqm9t1pifugkv1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
